@@ -1,0 +1,3333 @@
+.mediaViewInfo {
+    --web-view-name: Blog;
+    --web-view-id: Blog;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Blog;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+.Blog_Class {
+    position: absolute;
+    width: 1349px;
+    height: 3787px;
+    background-color: rgba(254,254,254,1);
+    overflow: hidden;
+    --web-view-name: Blog;
+    --web-view-id: Blog;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.METADATA_Class {
+    display: none;
+    left: 0px;
+    top: -9px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Footer_Class {
+    position: absolute;
+    width: 1366px;
+    height: 447px;
+    left: 0px;
+    top: 3340px;
+    overflow: visible;
+}
+.METADATA_n_Class {
+    display: none;
+    left: 0px;
+    top: -4127px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Rectangle_147683_STYLESTYLE2_Class {
+    fill: rgba(69,37,242,1);
+}
+.Rectangle_147683_STYLESTYLE2 {
+    position: absolute;
+    overflow: visible;
+    width: 1366px;
+    height: 447px;
+    left: 0px;
+    top: 0px;
+}
+.Copyright__2020_Name_All_right_Class {
+    left: 514px;
+    top: 297px;
+    position: absolute;
+    overflow: visible;
+    width: 339px;
+    white-space: nowrap;
+    line-height: 26px;
+    margin-top: -5px;
+    text-align: center;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(180,168,249,1);
+    letter-spacing: 0.25px;
+}
+.Circle_Button__Class {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 659px;
+    top: 128px;
+    overflow: visible;
+}
+.METADATA_r_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_Class {
+    fill: rgba(242,244,248,1);
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY {
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+}
+.Icon__Class {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 14px;
+    top: 14px;
+    overflow: visible;
+}
+.METADATA_u_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_ICONfeatherinstagramSIZEM_Class {
+    opacity: 0;
+    fill: rgba(253,73,198,0.349);
+}
+.Area_ICONfeatherinstagramSIZEM {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+}
+.Icon_Class {
+    position: absolute;
+    width: 16.667px;
+    height: 16.667px;
+    left: 1.667px;
+    top: 1.667px;
+    overflow: visible;
+}
+.Rect_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 1.6666666269302368px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rect {
+    position: absolute;
+    overflow: visible;
+    width: 18.333px;
+    height: 18.333px;
+    left: 0px;
+    top: 0px;
+}
+.Path_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 1.6666666269302368px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path {
+    overflow: visible;
+    position: absolute;
+    width: 8.432px;
+    height: 8.432px;
+    left: 5.036px;
+    top: 4.964px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Line_Class {
+    fill: transparent;
+    stroke: rgba(28,33,38,1);
+    stroke-width: 1.6666666269302368px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line {
+    overflow: visible;
+    position: absolute;
+    width: 1.675px;
+    height: 1.667px;
+    left: 12.917px;
+    top: 3.75px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Circle_Button___Class {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 595px;
+    top: 128px;
+    overflow: visible;
+}
+.METADATA__Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY__Class {
+    fill: rgba(242,244,248,1);
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_ {
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+}
+.Icon___Class {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 14px;
+    top: 14px;
+    overflow: visible;
+}
+.METADATA_ba_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_ICONfeathertwitterSIZEMED_Class {
+    opacity: 0;
+    fill: rgba(253,73,198,0.349);
+}
+.Area_ICONfeathertwitterSIZEMED {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+}
+.Icon_ba_Class {
+    position: absolute;
+    width: 18.334px;
+    height: 14.953px;
+    left: 0.833px;
+    top: 2.491px;
+    overflow: visible;
+}
+.Path__Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 1.6666666269302368px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_ {
+    overflow: visible;
+    position: absolute;
+    width: 20.001px;
+    height: 16.785px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Circle_Button__ba_Class {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 531px;
+    top: 128px;
+    overflow: visible;
+}
+.METADATA_bb_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_ba_Class {
+    fill: rgba(242,244,248,1);
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_ba {
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+}
+.Icon__bb_Class {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 14px;
+    top: 14px;
+    overflow: visible;
+}
+.METADATA_bc_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_ICONfeatherfacebookSIZEME_Class {
+    opacity: 0;
+    fill: rgba(253,73,198,0.349);
+}
+.Area_ICONfeatherfacebookSIZEME {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+}
+.Icon_be_Class {
+    position: absolute;
+    width: 9.167px;
+    height: 16.666px;
+    left: 5.833px;
+    top: 1.667px;
+    overflow: visible;
+}
+.Path_bf_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 1.6666666269302368px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_bf {
+    overflow: visible;
+    position: absolute;
+    width: 10.834px;
+    height: 18.333px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Circle_Button__bg_Class {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 723px;
+    top: 128px;
+    overflow: visible;
+}
+.METADATA_bh_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bi_Class {
+    fill: rgba(242,244,248,1);
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bi {
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+}
+.Icon__bj_Class {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 14px;
+    top: 14px;
+    overflow: visible;
+}
+.METADATA_bk_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_ICONfeatherlinkedinSIZEME_Class {
+    opacity: 0;
+    fill: rgba(253,73,198,0.349);
+}
+.Area_ICONfeatherlinkedinSIZEME {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+}
+.Icon_bm_Class {
+    position: absolute;
+    width: 16.666px;
+    height: 15.833px;
+    left: 1.667px;
+    top: 1.667px;
+    overflow: visible;
+}
+.Path_bn_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 1.6666666269302368px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_bn {
+    overflow: visible;
+    position: absolute;
+    width: 11.667px;
+    height: 12.5px;
+    left: 6.666px;
+    top: 5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Rect_bo_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 1.6666666269302368px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rect_bo {
+    position: absolute;
+    overflow: visible;
+    width: 5px;
+    height: 11.667px;
+    left: 0px;
+    top: 5.833px;
+}
+.Path_bp_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 1.6666666269302368px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_bp {
+    position: absolute;
+    overflow: visible;
+    width: 5px;
+    height: 5px;
+    left: 0px;
+    top: 0px;
+}
+.Circle_Button__bq_Class {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    left: 787px;
+    top: 128px;
+    overflow: visible;
+}
+.METADATA_br_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bs_Class {
+    fill: rgba(242,244,248,1);
+}
+.Area_SIZEMEDIUMSTATEDEFAULTSTY_bs {
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+}
+.Icon__bt_Class {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 14px;
+    top: 14px;
+    overflow: visible;
+}
+.METADATA_bu_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_ICONfeathermailSIZEMEDIUM_Class {
+    opacity: 0;
+    fill: rgba(253,73,198,0.349);
+}
+.Area_ICONfeathermailSIZEMEDIUM {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+}
+.Icon_bw_Class {
+    position: absolute;
+    width: 16.666px;
+    height: 13.334px;
+    left: 1.667px;
+    top: 3.333px;
+    overflow: visible;
+}
+.Path_bx_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 1.6666666269302368px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_bx {
+    overflow: visible;
+    position: absolute;
+    width: 18.333px;
+    height: 15px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Path_by_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 1.6666666269302368px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_by {
+    overflow: visible;
+    position: absolute;
+    width: 18.987px;
+    height: 7.827px;
+    left: 0px;
+    top: 1.667px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Mockup_Shop_Classic_PLATFORMMo_Class {
+    left: 599px;
+    top: 246px;
+    position: absolute;
+    overflow: visible;
+    width: 169px;
+    white-space: nowrap;
+    line-height: 33px;
+    margin-top: -3.5px;
+    text-align: center;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgba(242,244,248,1);
+    letter-spacing: 0.16px;
+}
+.Join_Our_Newsletter_Class {
+    position: absolute;
+    width: 1366px;
+    height: 208px;
+    left: 0px;
+    top: 3132px;
+    overflow: visible;
+}
+.METADATA_b_Class {
+    display: none;
+    left: 0px;
+    top: -6994px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Background_STYLESTYLE3_Class {
+    fill: rgba(215,220,222,1);
+}
+.Background_STYLESTYLE3 {
+    position: absolute;
+    overflow: visible;
+    width: 1366px;
+    height: 208px;
+    left: 0px;
+    top: 0px;
+}
+.Button__Class {
+    position: absolute;
+    width: 144px;
+    height: 48px;
+    left: 1078px;
+    top: 80px;
+    overflow: visible;
+}
+.METADATA_ca_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_Class {
+    fill: rgba(255,255,255,1);
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE {
+    filter: drop-shadow(0px 8px 16px rgba(0, 0, 0, 0.078));
+    position: absolute;
+    overflow: visible;
+    width: 192px;
+    height: 96px;
+    left: 0px;
+    top: 0px;
+}
+.Label_Class {
+    left: 34px;
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(28,33,38,1);
+}
+.Icon__b_Class {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 108px;
+    top: 14px;
+    display: none;
+    overflow: visible;
+}
+.METADATA_cb_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelICON_Class {
+    opacity: 0;
+    fill: rgba(253,73,198,0.349);
+}
+.Area_DISPLAY_ELEMENTSLabelICON {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+}
+.Icon_ca_Class {
+    position: absolute;
+    width: 17.42px;
+    height: 15.193px;
+    left: 1.291px;
+    top: 2.499px;
+    overflow: visible;
+}
+.Path_cb_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 1.6666666269302368px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_cb {
+    overflow: visible;
+    position: absolute;
+    width: 19.086px;
+    height: 16.86px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Typography_STYLESTYLE3TAGH4_Class {
+    left: 145px;
+    top: 79px;
+    position: absolute;
+    overflow: visible;
+    width: 586px;
+    white-space: nowrap;
+    line-height: 43px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 35px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.08px;
+}
+.Posts_Class {
+    position: absolute;
+    width: 1366px;
+    height: 2532px;
+    left: 0px;
+    top: 600px;
+    overflow: visible;
+}
+.METADATA_ce_Class {
+    display: none;
+    left: 0px;
+    top: -600px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Background_Class {
+    fill: rgba(254,254,254,1);
+}
+.Background {
+    position: absolute;
+    overflow: visible;
+    width: 1366px;
+    height: 2532px;
+    left: 0px;
+    top: 0px;
+}
+.Button__cg_Class {
+    position: absolute;
+    width: 200px;
+    height: 48px;
+    left: 540px;
+    top: 2412px;
+    overflow: visible;
+}
+.METADATA_ch_Class {
+    display: none;
+    left: -0.009px;
+    top: -0.34px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_ci_Class {
+    fill: rgba(69,37,242,1);
+}
+.Area_DISPLAY_ELEMENTSLabelSIZE_ci {
+    position: absolute;
+    overflow: visible;
+    width: 200px;
+    height: 48px;
+    left: 0px;
+    top: 0px;
+}
+.Label_cj_Class {
+    left: 59px;
+    top: 13px;
+    position: absolute;
+    overflow: visible;
+    width: 83px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(255,255,255,1);
+}
+.Icon__ck_Class {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 164px;
+    top: 14px;
+    display: none;
+    overflow: visible;
+}
+.METADATA_cl_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_DISPLAY_ELEMENTSLabelICON_cm_Class {
+    opacity: 0;
+    fill: rgba(252,252,252,1);
+}
+.Area_DISPLAY_ELEMENTSLabelICON_cm {
+    position: absolute;
+    overflow: visible;
+    width: 20px;
+    height: 20px;
+    left: 0px;
+    top: 0px;
+}
+.Icon_cn_Class {
+    position: absolute;
+    width: 17.42px;
+    height: 15.193px;
+    left: 1.291px;
+    top: 2.499px;
+    overflow: visible;
+}
+.Path_co_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(255,255,255,1);
+    stroke-width: 1.6666666269302368px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_co {
+    overflow: visible;
+    position: absolute;
+    width: 19.086px;
+    height: 16.86px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Post_Class {
+    position: absolute;
+    width: 344px;
+    height: 441px;
+    left: 143px;
+    top: 176px;
+    overflow: visible;
+}
+.METADATA_cq_Class {
+    display: none;
+    left: 3px;
+    top: -38px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Text_TAGP_Class {
+    left: 3px;
+    top: 367px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 74px;
+    line-height: 26px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(115,115,115,1);
+    letter-spacing: 0.25px;
+}
+.Post_Title_TAGH5_Class {
+    left: 3px;
+    top: 276px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 67px;
+    line-height: 35px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.16px;
+}
+.Category_TAGUI_S_Class {
+    left: 3px;
+    top: 250px;
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    line-height: 19px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.3px;
+}
+.Image__Class {
+    position: absolute;
+    width: 344px;
+    height: 234px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_cv_Class {
+    display: none;
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_Class {
+    position: absolute;
+    width: 344px;
+    height: 234px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Post_cx_Class {
+    position: absolute;
+    width: 344px;
+    height: 441px;
+    left: 143px;
+    top: 1282px;
+    overflow: visible;
+}
+.METADATA_cy_Class {
+    display: none;
+    left: 3px;
+    top: -38px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Text_TAGP_cz_Class {
+    left: 3px;
+    top: 367px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 74px;
+    line-height: 26px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(115,115,115,1);
+    letter-spacing: 0.25px;
+}
+.Post_Title_TAGH5_c_Class {
+    left: 3px;
+    top: 276px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 67px;
+    line-height: 35px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.16px;
+}
+.Category_TAGUI_S_c_Class {
+    left: 3px;
+    top: 250px;
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    line-height: 19px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.3px;
+}
+.Image__c_Class {
+    position: absolute;
+    width: 344px;
+    height: 234px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_c_Class {
+    display: none;
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_c_Class {
+    position: absolute;
+    width: 344px;
+    height: 234px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Post_c_Class {
+    position: absolute;
+    width: 344px;
+    height: 441px;
+    left: 511px;
+    top: 793px;
+    overflow: visible;
+}
+.METADATA_da_Class {
+    display: none;
+    left: 3px;
+    top: -38px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Text_TAGP_c_Class {
+    left: 3px;
+    top: 367px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 74px;
+    line-height: 26px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(115,115,115,1);
+    letter-spacing: 0.25px;
+}
+.Post_Title_TAGH5_da_Class {
+    left: 3px;
+    top: 276px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 67px;
+    line-height: 35px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.16px;
+}
+.Category_TAGUI_S_da_Class {
+    left: 3px;
+    top: 250px;
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    line-height: 19px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.3px;
+}
+.Image__da_Class {
+    position: absolute;
+    width: 344px;
+    height: 234px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_db_Class {
+    display: none;
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_dc_Class {
+    position: absolute;
+    width: 344px;
+    height: 234px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Post_dd_Class {
+    position: absolute;
+    width: 344px;
+    height: 441px;
+    left: 511px;
+    top: 1899px;
+    overflow: visible;
+}
+.METADATA_de_Class {
+    display: none;
+    left: 3px;
+    top: -38px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Text_TAGP_df_Class {
+    left: 3px;
+    top: 367px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 74px;
+    line-height: 26px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(115,115,115,1);
+    letter-spacing: 0.25px;
+}
+.Post_Title_TAGH5_dg_Class {
+    left: 3px;
+    top: 276px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 67px;
+    line-height: 35px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.16px;
+}
+.Category_TAGUI_S_dh_Class {
+    left: 3px;
+    top: 250px;
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    line-height: 19px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.3px;
+}
+.Image__di_Class {
+    position: absolute;
+    width: 344px;
+    height: 234px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_dj_Class {
+    display: none;
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_dk_Class {
+    position: absolute;
+    width: 344px;
+    height: 234px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Post_dl_Class {
+    position: absolute;
+    width: 344px;
+    height: 569px;
+    left: 511px;
+    top: 176px;
+    overflow: visible;
+}
+.METADATA_dm_Class {
+    display: none;
+    left: 0px;
+    top: -38px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Text_TAGP_dn_Class {
+    left: 0px;
+    top: 495px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 74px;
+    line-height: 26px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(115,115,115,1);
+    letter-spacing: 0.25px;
+}
+.Post_Title_TAGH5_do_Class {
+    left: 0px;
+    top: 404px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 67px;
+    line-height: 35px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.16px;
+}
+.Category_TAGUI_S_dp_Class {
+    left: 0px;
+    top: 378px;
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    line-height: 19px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.3px;
+}
+.Image__dq_Class {
+    position: absolute;
+    width: 344px;
+    height: 362px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_dr_Class {
+    display: none;
+    left: 0px;
+    top: -6px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_ds_Class {
+    position: absolute;
+    width: 344px;
+    height: 362px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Post_dt_Class {
+    position: absolute;
+    width: 344px;
+    height: 569px;
+    left: 511px;
+    top: 1282px;
+    overflow: visible;
+}
+.METADATA_du_Class {
+    display: none;
+    left: 0px;
+    top: -38px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Text_TAGP_dv_Class {
+    left: 0px;
+    top: 495px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 74px;
+    line-height: 26px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(115,115,115,1);
+    letter-spacing: 0.25px;
+}
+.Post_Title_TAGH5_dw_Class {
+    left: 0px;
+    top: 404px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 67px;
+    line-height: 35px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.16px;
+}
+.Category_TAGUI_S_dx_Class {
+    left: 0px;
+    top: 378px;
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    line-height: 19px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.3px;
+}
+.Image__dy_Class {
+    position: absolute;
+    width: 344px;
+    height: 362px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_dz_Class {
+    display: none;
+    left: 0px;
+    top: -6px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_d_Class {
+    position: absolute;
+    width: 344px;
+    height: 362px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Post_d_Class {
+    position: absolute;
+    width: 344px;
+    height: 504px;
+    left: 879px;
+    top: 176px;
+    overflow: visible;
+}
+.METADATA_d_Class {
+    display: none;
+    left: 0px;
+    top: -38px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Text_TAGP_d_Class {
+    left: 0px;
+    top: 430px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 74px;
+    line-height: 26px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(115,115,115,1);
+    letter-spacing: 0.25px;
+}
+.Post_Title_TAGH5_d_Class {
+    left: 0px;
+    top: 339px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 67px;
+    line-height: 35px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.16px;
+}
+.Category_TAGUI_S_d_Class {
+    left: 0px;
+    top: 313px;
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    line-height: 19px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.3px;
+}
+.Image__d_Class {
+    position: absolute;
+    width: 344px;
+    height: 297px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_ea_Class {
+    display: none;
+    left: 0px;
+    top: -6px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_ea_Class {
+    position: absolute;
+    width: 344px;
+    height: 297px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Post_ea_Class {
+    position: absolute;
+    width: 344px;
+    height: 504px;
+    left: 879px;
+    top: 1282px;
+    overflow: visible;
+}
+.METADATA_eb_Class {
+    display: none;
+    left: 0px;
+    top: -38px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Text_TAGP_eb_Class {
+    left: 0px;
+    top: 430px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 74px;
+    line-height: 26px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(115,115,115,1);
+    letter-spacing: 0.25px;
+}
+.Post_Title_TAGH5_ec_Class {
+    left: 0px;
+    top: 339px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 67px;
+    line-height: 35px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.16px;
+}
+.Category_TAGUI_S_ed_Class {
+    left: 0px;
+    top: 313px;
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    line-height: 19px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.3px;
+}
+.Image__ee_Class {
+    position: absolute;
+    width: 344px;
+    height: 297px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_ef_Class {
+    display: none;
+    left: 0px;
+    top: -6px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_eg_Class {
+    position: absolute;
+    width: 344px;
+    height: 297px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Post_eh_Class {
+    position: absolute;
+    width: 344px;
+    height: 504px;
+    left: 879px;
+    top: 730px;
+    overflow: visible;
+}
+.METADATA_ei_Class {
+    display: none;
+    left: 0px;
+    top: -38px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Text_TAGP_ej_Class {
+    left: 0px;
+    top: 430px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 74px;
+    line-height: 26px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(115,115,115,1);
+    letter-spacing: 0.25px;
+}
+.Post_Title_TAGH5_ek_Class {
+    left: 0px;
+    top: 339px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 67px;
+    line-height: 35px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.16px;
+}
+.Category_TAGUI_S_el_Class {
+    left: 0px;
+    top: 313px;
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    line-height: 19px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.3px;
+}
+.Image__em_Class {
+    position: absolute;
+    width: 344px;
+    height: 297px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_en_Class {
+    display: none;
+    left: 0px;
+    top: -6px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_eo_Class {
+    position: absolute;
+    width: 344px;
+    height: 297px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Post_ep_Class {
+    position: absolute;
+    width: 344px;
+    height: 504px;
+    left: 879px;
+    top: 1836px;
+    overflow: visible;
+}
+.METADATA_eq_Class {
+    display: none;
+    left: 0px;
+    top: -38px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Text_TAGP_er_Class {
+    left: 0px;
+    top: 430px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 74px;
+    line-height: 26px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(115,115,115,1);
+    letter-spacing: 0.25px;
+}
+.Post_Title_TAGH5_es_Class {
+    left: 0px;
+    top: 339px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 67px;
+    line-height: 35px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.16px;
+}
+.Category_TAGUI_S_et_Class {
+    left: 0px;
+    top: 313px;
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    line-height: 19px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.3px;
+}
+.Image__eu_Class {
+    position: absolute;
+    width: 344px;
+    height: 297px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_ev_Class {
+    display: none;
+    left: 0px;
+    top: -6px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_ew_Class {
+    position: absolute;
+    width: 344px;
+    height: 297px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Tabs_Class {
+    position: absolute;
+    width: 300px;
+    height: 42px;
+    left: 576px;
+    top: 64px;
+    overflow: visible;
+}
+.METADATA_ey_Class {
+    display: none;
+    left: -85px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.PLACEHOLDER_Tab_Item_Class {
+    position: absolute;
+    width: 522px;
+    height: 443px;
+    left: 107px;
+    top: 30px;
+    display: none;
+    overflow: visible;
+}
+.METADATA_e_Class {
+    display: none;
+    left: 0px;
+    top: -30px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_Class {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 480px;
+    top: 401px;
+    overflow: visible;
+}
+.METADATA_fa_Class {
+    display: none;
+    left: -480px;
+    top: -411px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_Class {
+    opacity: 0;
+    fill: rgba(242,244,248,1);
+}
+.Placement_Area {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+.Bar_Class {
+    opacity: 0;
+    fill: rgba(28,33,38,1);
+}
+.Bar {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 2px;
+    left: 0px;
+    top: 40px;
+}
+.Label_e_Class {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 43px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(139,139,139,1);
+}
+.Tab_Item__Class {
+    position: absolute;
+    width: 84px;
+    height: 42px;
+    left: 108px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_fb_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_e_Class {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_fc_Class {
+    display: none;
+    left: -480px;
+    top: -411px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_STATEDEFAULT_Class {
+    opacity: 0;
+    fill: rgba(242,244,248,1);
+}
+.Placement_Area_STATEDEFAULT {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+.Bar_STATEDEFAULT_Class {
+    opacity: 0;
+    fill: rgba(28,33,38,1);
+}
+.Bar_STATEDEFAULT {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 2px;
+    left: 0px;
+    top: 40px;
+}
+.Label_fc_Class {
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 85px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(139,139,139,1);
+}
+.Tab_Item__fd_Class {
+    position: absolute;
+    width: 84px;
+    height: 42px;
+    left: 216px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_fe_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_ff_Class {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_fg_Class {
+    display: none;
+    left: -480px;
+    top: -411px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_STATEDEFAULT_fh_Class {
+    opacity: 0;
+    fill: rgba(242,244,248,1);
+}
+.Placement_Area_STATEDEFAULT_fh {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+.Bar_STATEDEFAULT_fi_Class {
+    opacity: 0;
+    fill: rgba(28,33,38,1);
+}
+.Bar_STATEDEFAULT_fi {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 2px;
+    left: 0px;
+    top: 40px;
+}
+.Label_fj_Class {
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 85px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(139,139,139,1);
+}
+.Tab_Item__fk_Class {
+    position: absolute;
+    width: 84px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_fl_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_fm_Class {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_fn_Class {
+    display: none;
+    left: -480px;
+    top: -411px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_STATEDEFAULT_fo_Class {
+    opacity: 0;
+    fill: rgba(242,244,248,1);
+}
+.Placement_Area_STATEDEFAULT_fo {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+.Bar_STATEDEFAULT_fp_Class {
+    opacity: 0;
+    fill: rgba(28,33,38,1);
+}
+.Bar_STATEDEFAULT_fp {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 2px;
+    left: 0px;
+    top: 40px;
+}
+.Label_fq_Class {
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 85px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(139,139,139,1);
+}
+.Post_fr_Class {
+    position: absolute;
+    width: 344px;
+    height: 569px;
+    left: 143px;
+    top: 665px;
+    overflow: visible;
+}
+.METADATA_fs_Class {
+    display: none;
+    left: 0px;
+    top: -38px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Text_TAGP_ft_Class {
+    left: 0px;
+    top: 495px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 74px;
+    line-height: 26px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(115,115,115,1);
+    letter-spacing: 0.25px;
+}
+.Post_Title_TAGH5_fu_Class {
+    left: 0px;
+    top: 404px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 67px;
+    line-height: 35px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.16px;
+}
+.Category_TAGUI_S_fv_Class {
+    left: 0px;
+    top: 378px;
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    line-height: 19px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.3px;
+}
+.Image__fw_Class {
+    position: absolute;
+    width: 344px;
+    height: 362px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_fx_Class {
+    display: none;
+    left: 0px;
+    top: -6px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_fy_Class {
+    position: absolute;
+    width: 344px;
+    height: 362px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Post_fz_Class {
+    position: absolute;
+    width: 344px;
+    height: 569px;
+    left: 143px;
+    top: 1771px;
+    overflow: visible;
+}
+.METADATA_f_Class {
+    display: none;
+    left: 0px;
+    top: -38px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Text_TAGP_f_Class {
+    left: 0px;
+    top: 495px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 74px;
+    line-height: 26px;
+    margin-top: -5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(115,115,115,1);
+    letter-spacing: 0.25px;
+}
+.Post_Title_TAGH5_f_Class {
+    left: 0px;
+    top: 404px;
+    position: absolute;
+    overflow: hidden;
+    width: 301px;
+    height: 67px;
+    line-height: 35px;
+    margin-top: -4.5px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.16px;
+}
+.Category_TAGUI_S_f_Class {
+    left: 0px;
+    top: 378px;
+    position: absolute;
+    overflow: visible;
+    width: 162px;
+    white-space: nowrap;
+    line-height: 19px;
+    margin-top: -3px;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 13px;
+    color: rgba(28,33,38,1);
+    letter-spacing: 0.3px;
+}
+.Image__f_Class {
+    position: absolute;
+    width: 344px;
+    height: 362px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_ga_Class {
+    display: none;
+    left: 0px;
+    top: -6px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_ASSETsmallSIZED_f_Class {
+    position: absolute;
+    width: 344px;
+    height: 362px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Hero_Class {
+    position: absolute;
+    width: 1366px;
+    height: 600px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_gb_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Image__ga_Class {
+    position: absolute;
+    width: 1366px;
+    height: 600px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_gc_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_ASSETheroSIZEDe_Class {
+    position: absolute;
+    width: 1366px;
+    height: 600px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.Description_Class {
+    left: 403px;
+    top: 324px;
+    position: absolute;
+    overflow: visible;
+    width: 561px;
+    height: 44px;
+    text-align: center;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(28,33,38,1);
+}
+.Title_TAGH1_Class {
+    left: 489px;
+    top: 227px;
+    position: absolute;
+    overflow: visible;
+    width: 389px;
+    white-space: nowrap;
+    line-height: 68px;
+    margin-top: -4px;
+    text-align: center;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    color: rgba(69,37,242,1);
+    letter-spacing: 0.2px;
+}
+.Header_Class {
+    position: absolute;
+    width: 1081px;
+    height: 42px;
+    left: 142px;
+    top: 39px;
+    overflow: visible;
+}
+.METADATA_gf_Class {
+    display: none;
+    left: -142px;
+    top: -39px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Tabs_gg_Class {
+    position: absolute;
+    width: 191px;
+    height: 42px;
+    left: 445.999px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_gh_Class {
+    display: none;
+    left: 0.041px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.PLACEHOLDER_Tab_Item_gi_Class {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 191.921px;
+    top: 0px;
+    display: none;
+    overflow: visible;
+}
+.METADATA_gj_Class {
+    display: none;
+    left: 0.12px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_gk_Class {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_gl_Class {
+    display: none;
+    left: 0.04px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_gm_Class {
+    opacity: 0;
+    fill: rgba(242,244,248,1);
+}
+.Placement_Area_gm {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+.Bar_gn_Class {
+    opacity: 0;
+    fill: rgba(28,33,38,1);
+}
+.Bar_gn {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 2px;
+    left: 0px;
+    top: 40px;
+}
+.Label_go_Class {
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 43px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(139,139,139,1);
+}
+.Tab_Item__gp_Class {
+    position: absolute;
+    width: 61px;
+    height: 42px;
+    left: 130px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_gq_Class {
+    display: none;
+    left: 0.04px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_gr_Class {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_gs_Class {
+    display: none;
+    left: 0.04px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_STATEDEFAULT_gt_Class {
+    opacity: 0;
+    fill: rgba(242,244,248,1);
+}
+.Placement_Area_STATEDEFAULT_gt {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+.Bar_STATEDEFAULT_gu_Class {
+    opacity: 0;
+    fill: rgba(28,33,38,1);
+}
+.Bar_STATEDEFAULT_gu {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 2px;
+    left: 0px;
+    top: 40px;
+}
+.Label_gv_Class {
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 62px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(139,139,139,1);
+}
+.Tab_Item__gw_Class {
+    position: absolute;
+    width: 47px;
+    height: 42px;
+    left: 59px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_gx_Class {
+    display: none;
+    left: 0.04px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_gy_Class {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_gz_Class {
+    display: none;
+    left: 0.04px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_STATEDEFAULT_g_Class {
+    opacity: 0;
+    fill: rgba(242,244,248,1);
+}
+.Placement_Area_STATEDEFAULT_g {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+.Bar_STATEDEFAULT_g_Class {
+    opacity: 0;
+    fill: rgba(28,33,38,1);
+}
+.Bar_STATEDEFAULT_g {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 2px;
+    left: 0px;
+    top: 40px;
+}
+.Label_g_Class {
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 48px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(139,139,139,1);
+}
+.Tab_Item__g_Class {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_g_Class {
+    display: none;
+    left: 0.04px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_g_Class {
+    position: absolute;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+.METADATA_ha_Class {
+    display: none;
+    left: 0.04px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Placement_Area_STATEACTIVE_Class {
+    opacity: 0;
+    fill: rgba(242,244,248,1);
+}
+.Placement_Area_STATEACTIVE {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 42px;
+    left: 0px;
+    top: 0px;
+}
+.Bar_STATEACTIVE_Class {
+    fill: rgba(28,33,38,1);
+    stroke: rgba(69,37,242,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Bar_STATEACTIVE {
+    position: absolute;
+    overflow: visible;
+    width: 42px;
+    height: 2px;
+    left: 0px;
+    top: 40px;
+}
+.Label_ha_Class {
+    left: 0px;
+    top: 10px;
+    position: absolute;
+    overflow: visible;
+    width: 36px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(28,33,38,1);
+}
+.Icon__ha_Class {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 913px;
+    top: 9px;
+    overflow: visible;
+}
+.METADATA_hb_Class {
+    display: none;
+    left: -0.38px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_ICONfeatherfacebookSIZELA_Class {
+    opacity: 0;
+    fill: rgba(252,252,252,1);
+}
+.Area_ICONfeatherfacebookSIZELA {
+    position: absolute;
+    overflow: visible;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+}
+.Icon_hd_Class {
+    position: absolute;
+    width: 11px;
+    height: 20px;
+    left: 6.62px;
+    top: 2px;
+    overflow: visible;
+}
+.Path_he_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 2px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_he {
+    overflow: visible;
+    position: absolute;
+    width: 13px;
+    height: 22px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Icon__hf_Class {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 961px;
+    top: 9px;
+    overflow: visible;
+}
+.METADATA_hg_Class {
+    display: none;
+    left: -0.023px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_ICONfeathertwitterSIZELAR_Class {
+    opacity: 0;
+    fill: rgba(252,252,252,1);
+}
+.Area_ICONfeathertwitterSIZELAR {
+    position: absolute;
+    overflow: visible;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+}
+.Icon_hi_Class {
+    position: absolute;
+    width: 22px;
+    height: 17.944px;
+    left: 0.977px;
+    top: 2.99px;
+    overflow: visible;
+}
+.Path_hj_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 2px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_hj {
+    overflow: visible;
+    position: absolute;
+    width: 24px;
+    height: 20.142px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Icon__hk_Class {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1009px;
+    top: 9px;
+    overflow: visible;
+}
+.METADATA_hl_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_ICONfeatherinstagramSIZEL_Class {
+    opacity: 0;
+    fill: rgba(252,252,252,1);
+}
+.Area_ICONfeatherinstagramSIZEL {
+    position: absolute;
+    overflow: visible;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+}
+.Icon_hn_Class {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 2px;
+    top: 2px;
+    overflow: visible;
+}
+.Rect_ho_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 2px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rect_ho {
+    position: absolute;
+    overflow: visible;
+    width: 22px;
+    height: 22px;
+    left: 0px;
+    top: 0px;
+}
+.Path_hp_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 2px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_hp {
+    overflow: visible;
+    position: absolute;
+    width: 10.119px;
+    height: 10.118px;
+    left: 6.043px;
+    top: 5.957px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Line_hq_Class {
+    fill: transparent;
+    stroke: rgba(28,33,38,1);
+    stroke-width: 2px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Line_hq {
+    overflow: visible;
+    position: absolute;
+    width: 2.01px;
+    height: 2px;
+    left: 15.5px;
+    top: 4.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Icon__hr_Class {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    left: 1057px;
+    top: 9px;
+    overflow: visible;
+}
+.METADATA_hs_Class {
+    display: none;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: hidden;
+    width: 11px;
+    height: 10px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 3px;
+}
+.Area_ICONfeatherlinkedinSIZELA_Class {
+    opacity: 0;
+    fill: rgba(252,252,252,1);
+}
+.Area_ICONfeatherlinkedinSIZELA {
+    position: absolute;
+    overflow: visible;
+    width: 24px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+}
+.Icon_hu_Class {
+    position: absolute;
+    width: 20px;
+    height: 19px;
+    left: 2px;
+    top: 2px;
+    overflow: visible;
+}
+.Path_hv_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 2px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_hv {
+    overflow: visible;
+    position: absolute;
+    width: 14px;
+    height: 15px;
+    left: 8px;
+    top: 6px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Rect_hw_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 2px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rect_hw {
+    position: absolute;
+    overflow: visible;
+    width: 6px;
+    height: 14px;
+    left: 0px;
+    top: 7px;
+}
+.Path_hx_Class {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(28,33,38,1);
+    stroke-width: 2px;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_hx {
+    position: absolute;
+    overflow: visible;
+    width: 6px;
+    height: 6px;
+    left: 0px;
+    top: 0px;
+}
+.Title_TAGH6_Class {
+    left: 0px;
+    top: 8px;
+    position: absolute;
+    overflow: visible;
+    width: 113px;
+    white-space: nowrap;
+    line-height: 26px;
+    margin-top: -4px;
+    text-align: left;
+    font-family: Proxima Nova;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgba(28,33,38,1);
+    letter-spacing: -0.05px;
+}
